@@ -1,0 +1,15 @@
+C:\Users\anderson.teixeira\source\repos\HostResolver\HostResolver\bin\Debug\HostResolver.exe.config
+C:\Users\anderson.teixeira\source\repos\HostResolver\HostResolver\bin\Debug\HostResolver.exe
+C:\Users\anderson.teixeira\source\repos\HostResolver\HostResolver\bin\Debug\HostResolver.pdb
+C:\Users\anderson.teixeira\source\repos\HostResolver\HostResolver\obj\Debug\HostResolver.csprojAssemblyReference.cache
+C:\Users\anderson.teixeira\source\repos\HostResolver\HostResolver\obj\Debug\MainWindow.g.cs
+C:\Users\anderson.teixeira\source\repos\HostResolver\HostResolver\obj\Debug\App.g.cs
+C:\Users\anderson.teixeira\source\repos\HostResolver\HostResolver\obj\Debug\HostResolver_MarkupCompile.cache
+C:\Users\anderson.teixeira\source\repos\HostResolver\HostResolver\obj\Debug\HostResolver_MarkupCompile.lref
+C:\Users\anderson.teixeira\source\repos\HostResolver\HostResolver\obj\Debug\MainWindow.baml
+C:\Users\anderson.teixeira\source\repos\HostResolver\HostResolver\obj\Debug\HostResolver.g.resources
+C:\Users\anderson.teixeira\source\repos\HostResolver\HostResolver\obj\Debug\HostResolver.Properties.Resources.resources
+C:\Users\anderson.teixeira\source\repos\HostResolver\HostResolver\obj\Debug\HostResolver.csproj.GenerateResource.cache
+C:\Users\anderson.teixeira\source\repos\HostResolver\HostResolver\obj\Debug\HostResolver.csproj.CoreCompileInputs.cache
+C:\Users\anderson.teixeira\source\repos\HostResolver\HostResolver\obj\Debug\HostResolver.exe
+C:\Users\anderson.teixeira\source\repos\HostResolver\HostResolver\obj\Debug\HostResolver.pdb
